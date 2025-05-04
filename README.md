@@ -64,3 +64,9 @@ Follow BHB Projects and share feedback.
 
 ## License
 MIT License (Optional – you can add one)
+
+## Support
+
+If you find this project helpful, consider supporting me via Binance:
+
+[![Donate via Binance](https://img.shields.io/badge/Donate%20with-Binance-yellow?logo=binance&style=for-the-badge)](https://s.binance.com/Dnb0ly9K)
